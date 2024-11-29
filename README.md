@@ -50,7 +50,7 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()![output](<Screenshot 2024-11-27 204556.png>)
+![output](<Screenshot 2024-11-27 204556.png>)
 ![output](<Screenshot 2024-11-27 204620.png>)
 
 ## Result:
